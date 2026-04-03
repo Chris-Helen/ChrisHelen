@@ -7,4 +7,4 @@ if (a > b):
 elif (a < b):
     print(b , "é maior")
 else:
-    print("Os dois números são igauis")
+    print("Os dois números são igauis")    print("Os dois números são iguais")
